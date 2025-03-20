@@ -18,3 +18,4 @@ public class PersonDelete implements PersonCommand{
 //kim 추가
 //kim 추가
 //kim 추가
+//마스터 수정
